@@ -1,0 +1,317 @@
+body {}
+
+html {
+  scroll-behavior: smooth;
+}
+
+h1 {
+  Color: black;
+  text-align: center;
+}
+
+.all {
+  background: linear-gradient(90deg, #FFBE7BFF, #EED971FF);
+  z-index: 2;
+  display: none;
+}
+
+.container {
+  border: solid 2px black;
+  padding: 5px;
+  background-color: #FFBE7BFF;
+  width: 100%;
+  margin-bottom: 5px;
+  border-radius: 25px;
+  margin: auto;
+}
+
+.vivo {
+  background-color: #0072B8;
+  color: #fff;
+  margin-top: 20px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.oppo {
+  background-color: #1EA366;
+  color: ghostwhite;
+  margin-top: 35px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.realme {
+  background-color: #FFC916;
+  color: #111111;
+  margin-top: 35px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.samsung {
+  background-color: #004f98;
+  color: ghostwhite;
+  margin-top: 35px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.redmi {
+  background-color: #FF6700;
+  color: ghostwhite;
+  margin-top: 35px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} 
+
+.tecno {
+  background-color: blue;
+  color: ghostwhite;
+  margin-top: 35px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} 
+
+.sticky-bxx {
+  z-index: 1;
+  width: 100%;
+  position: absolute;
+  height: 800px;
+}
+
+.sticky-vio {
+  z-index: 1;
+  width: 100%;
+  position: absolute;
+  height: 2000px;
+}
+
+.sitem {
+  width: 80px;
+  border: 0;
+  border-radius: 25px;
+  background-color: #EED971FF;
+  color: black;
+  font-family: 'Fira Sans', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.itemhm {
+  width: 80px;
+  border: 0;
+  border-radius: 25px;
+  background-color: #EED971FF;
+  color: black;
+  font-family: 'Fira Sans', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact {
+  Font-size: 40px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+}
+
+.body {
+  background: linear-gradient(90deg, #A9F1Df, #FFBBBB);
+}
+
+.body {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+
+.pro {
+  width: 110px;
+  height: 190px;
+  border-radius: 45px 0 45px 0;
+}
+
+.box {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  height: 65px;
+  align-items: center;
+  background: linear-gradient(90deg, #A9F1Df, #FFBBBB);
+}
+
+
+.solu {
+  height: 51px;
+  width: 70px;
+  margin-left: 18px;
+}
+
+.mob {
+  color: black;
+  font-family: 'Roboto Mono', monospace;
+  font-family: 'Roboto Slab', serif;
+  font-size: 30px;
+
+}
+
+.redmi {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
+
+.dabbo {
+  border: solid 1px black;
+
+}
+
+.one {
+  height: 240px;
+  width: 140px;
+}
+
+.a22 {
+  height: 247px;
+  width: 137px
+}
+
+.specifications {
+  font-size: 13px;
+  display: justify;
+  margin-top: 50px;
+}
+
+.item {
+  margin-top: 40px;
+  margin-left: 8px;
+  float: left;
+  margin-right: 8px;
+}
+
+.model {
+  font-size: 20px;
+}
+
+.model1 {
+  font-size: 18px;
+}
+
+
+.specs2 {
+  font-size: 10px;
+}
+
+.move {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.move2 {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 40px;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  border-top: dashed 1.5px black;
+  border-bottom: dashed 1.5px black;
+}
+
+.y72 {
+  margin-right: 36px;
+}
+
+.black {
+  color: black;
+  margin: 2px;
+  background-color: #C5AA6A;
+  padding: 3px;
+  border-radius: 15px;
+  font-weight: bold;
+}
+
+.scroll {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+
+.vivob {
+  background-color: #0072B8;
+  color: #FFFFFF;
+}
+
+.oppob {
+  background-color: #1EA366;
+  color: ghostwhite;
+}
+
+.realmeb {
+  background-color: #FFC916;
+  color: #111111;
+
+}
+
+.samsungb {
+  background-color: #004f98;
+  color: ghostwhite;
+}
+
+.redmib {
+  background-color: #FF6700;
+  color: #ffffff;
+}
+
+.tecnob {
+  background-color: blue;
+  color: ghostwhite;
+}
+
+.rate {
+  margin-right: 111px;
+}
+
+.price {
+  color: black;
+}
