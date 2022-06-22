@@ -1,4 +1,6 @@
-body {}
+body {
+
+}
 
 html {
   scroll-behavior: smooth;
@@ -97,20 +99,6 @@ h1 {
   align-items: center;
 } 
 
-.sticky-bxx {
-  z-index: 1;
-  width: 100%;
-  position: absolute;
-  height: 800px;
-}
-
-.sticky-vio {
-  z-index: 1;
-  width: 100%;
-  position: absolute;
-  height: 2000px;
-}
-
 .sitem {
   width: 80px;
   border: 0;
@@ -195,11 +183,6 @@ a {
   margin-top: 20px;
 }
 
-.dabbo {
-  border: solid 1px black;
-
-}
-
 .one {
   height: 240px;
   width: 140px;
@@ -247,11 +230,9 @@ a {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  margin-top: 40px;
-  padding-top: 10px;
-  padding-bottom: 40px;
-  border-top: dashed 1.5px black;
-  border-bottom: dashed 1.5px black;
+  margin-top: 30px;
+  padding-bottom: 30px;
+  border-top: solid 0.7px black;
 }
 
 .y72 {
@@ -314,4 +295,9 @@ a {
 
 .price {
   color: black;
+}
+
+.intro {
+  height: 200px;
+  width: 200px;
 }
